@@ -12,7 +12,8 @@ In this project, I implemented a comprehensive backup and disaster recovery solu
 •	To simulate a disaster scenario and restore the resources from backups.
 
 ## Architecture
-<img width="303" alt="image" src="https://github.com/user-attachments/assets/fa9f691e-8444-45fe-ae6f-c05880da0901" />
+<img width="966" alt="DR" src="https://github.com/user-attachments/assets/88ccd79a-7890-457e-889f-4e2ef1aad72a" />
+
 
  
 ## Step-by-Step Implementation
